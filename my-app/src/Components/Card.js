@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Card() {
   return (
-    <div>Card</div>
+    <div>
+        <li>images</li>
+        <li>counties</li>
+    </div>
   )
 }
